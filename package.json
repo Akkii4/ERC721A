@@ -1,0 +1,26 @@
+{
+  "name": "erc721a",
+  "version": "1.0.0",
+  "description": "AN IMPROVED ERC721 IMPLEMENTATION",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akkii4/ERC721A.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akkii4/ERC721A/issues"
+  },
+  "homepage": "https://github.com/Akkii4/ERC721A#readme",
+  "dependencies": {
+    "erc721a": "^4.2.3",
+    "hardhat": "^2.11.2"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0"
+  }
+}
