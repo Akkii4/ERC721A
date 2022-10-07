@@ -8,9 +8,10 @@ Untill January 2022 many projects were using the standard Openzepplin ERC721 & i
 
 ### So why the need of : ERC721A ?
 
-Wasn't ERC721 good enough ? YES it is , but just good as due to the NFT craze and choking Blocks in Ethereum Blockchain the gas price is reaching new highs & it's almost being impossible for retail to economically mint the NFTs especially in batches(more than one),
-[](https://camo.githubusercontent.com/d13739d5ecfd5dc882b0cb7089a770b55f4bb1a1abf98067b94e1c21864fb261/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f464964494c4b7056514145515f35553f666f726d61743d6a7067266e616d653d6d656469756d)
-☝️ this is gas savings being offered by ERC721A as compared to ERC721 Enumerable.
+Wasn't ERC721 good enough ? YES it is , but just good as due to the NFT craze and choking Blocks in Ethereum Blockchain the gas price is reaching new highs & it's almost being impossible for retail to economically mint the NFTs especially in batches(more than one)
+
+![Gas savings being offered by ERC721A as compared to ERC721 Enumerable.](https://camo.githubusercontent.com/d13739d5ecfd5dc882b0cb7089a770b55f4bb1a1abf98067b94e1c21864fb261/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f464964494c4b7056514145515f35553f666f726d61743d6a7067266e616d653d6d656469756d)
+
 
 ### How it does that ?
 
